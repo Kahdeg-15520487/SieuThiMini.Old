@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>0.0.1</version>
+    <title>CSVSchemaC</title>
+    <authors>Kahdeg-15520487</authors>
+    <owners>Kahdeg-15520487</owners>
+    <licenseUrl>https://github.com/Kahdeg-15520487/CSVSchema/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Kahdeg-15520487/CSVSchema</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A CSV Schema library</description>
+    <releaseNotes>Intial release</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>CSV schema</tags>
+  </metadata>
+</package>

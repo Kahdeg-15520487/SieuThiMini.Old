@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Utility\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SieuThiMini.Contract\SieuThiMini.Contract.csproj" />
+    <ProjectReference Include="..\SieuThiMini.DAL\SieuThiMini.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
